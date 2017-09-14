@@ -1,0 +1,3 @@
+/home/poia/Documents/STUDIA/Magisterka/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/poia/Documents/STUDIA/Magisterka/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/poia/Documents/STUDIA/Magisterka/cpp/cmake-build-debug/CMakeFiles/cpp.dir
